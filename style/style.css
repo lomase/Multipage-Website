@@ -1,0 +1,17 @@
+#hero-1{
+    background-image: url('../assets/555496.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-2{
+    background-image: url('../assets/858608.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-3{
+    background-image: url('../assets/860206.jpg');
+    background-size: cover;
+    height: 100vh;
+}
