@@ -16,6 +16,24 @@
     height: 100vh;
 }
 
+#hero-4{
+    background-image: url('../assets/941221.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-5{
+    background-image: url('../assets/769896.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-6{
+    background-image: url('../assets/860206.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
 .hero-content{
     position: absolute;
     color: whitesmoke;
