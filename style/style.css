@@ -15,3 +15,10 @@
     background-size: cover;
     height: 100vh;
 }
+
+.hero-content{
+    position: absolute;
+    color: whitesmoke;
+    bottom: 20px;
+    right: 20px;
+}
