@@ -40,3 +40,24 @@
     bottom: 20px;
     right: 20px;
 }
+
+
+.carousel{
+    justify-content: baseline;
+}
+
+.article{
+    background: #FFFFFF /*0% 0% no-repeat padding-box*/;
+    color: #707070;
+    font-family: helvetica;
+   border: 1px solid #868181;
+   opacity: 1;
+   width: 75%;
+   height: 75%;
+   overflow: auto;
+   margin: auto;
+   position: absolute;
+   top: 0; left: 0; bottom: 0; right: 0;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
