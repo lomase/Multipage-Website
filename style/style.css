@@ -34,6 +34,28 @@
     height: 100vh;
 }
 
+#hero-7{
+    background-image: url('/Multipage-Website-2/DeonMAC/BattleNetworkBanner.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-8{
+    background-image: url('/Multipage-Website-2/DeonMAC/dissidiabanner2.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-9{
+    background-image: url('/Multipage-Website-2/DeonMAC/GuiltyBanner1.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+#hero-10{
+    background-image: url('/Multipage-Website-2/DeonMAC/StarForce3Banner.jpg');
+    background-size: cover;
+    height: 100vh;
+}
 .hero-content{
     position: absolute;
     color: whitesmoke;
