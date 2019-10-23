@@ -28,8 +28,9 @@
     height: 100vh;
 }
 
+
 #hero-6{
-    background-image: url('../assets/860206.jpg');
+    background-image: url('/Multipage-Website-2/DeonMAC/GOWBanner.png');
     background-size: cover;
     height: 100vh;
 }
