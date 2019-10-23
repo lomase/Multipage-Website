@@ -29,7 +29,7 @@
 }
 
 #hero-6{
-    background-image: url('../assets/860206.jpg');
+    background-image: url('../assets/900718.jpg');
     background-size: cover;
     height: 100vh;
 }
@@ -53,6 +53,12 @@
 }
 #hero-10{
     background-image: url('/DeonMAC/StarForce3Banner.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero-11{
+    background-image: url('/assets/843016.jpg');
     background-size: cover;
     height: 100vh;
 }
